@@ -39,6 +39,23 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
     *   Product reviews and ratings.
     *   Comment system on blog posts with admin reply functionality.
 
+### 🛍️ Customer Interface
+| Home Page (Layout 1)                   | Product Listing (with Filter)          | Product Detail Page                    |
+| :------------------------------------: | :------------------------------------: | :------------------------------------: |
+| ![Omacha Home 1](images/omacha_customer_home_1.png) | ![Omacha Product List & Filter](images/omacha_customer_product_list_filter.png) | ![Omacha Product Detail](images/omacha_customer_product_detail.png) |
+| **Shopping Cart**                      | **Checkout Process**                   | **Thank You Page**                     |
+| ![Omacha Cart](images/omacha_customer_cart.png) | ![Omacha Checkout](images/omacha_customer_checkout.png) | ![Omacha Thank You](images/omacha_customer_thankyou.png) |
+| **Login Page**                         | **Registration Page**                  | **Wishlist Page**                      |
+| ![Omacha Login](images/omacha_customer_login.png) | ![Omacha Register](images/omacha_customer_register.png) | ![Omacha Wishlist](images/omacha_customer_wishlist.png) |
+| **Blog Page**                          | **About Us Page**                      | **Contact Page**                       |
+| ![Omacha Blog](images/omacha_customer_blog.png) | ![Omacha About Us](images/omacha_customer_about.png) | ![Omacha Contact](images/omacha_customer_contact.png) |
+| **Invoice / Order Detail**             | **Search Results**                     | **Comment Section** (e.g., on Product)|
+| ![Omacha Invoice](images/omacha_customer_invoice.png) | ![Omacha Search Results](images/omacha_customer_search.png) | ![Omacha Comment Section](images/omacha_customer_comment.png) |
+| **Home Page (Layout 2 - if any)**      | **Home Page (Layout 3 - if any)**      | **Home Page (Layout 4 - if any)**      |
+| ![Omacha Home 2](images/omacha_customer_home_2.png) | ![Omacha Home 3](images/omacha_customer_home_3.png) | ![Omacha Home 4](images/omacha_customer_home_4.png) |
+| **Home Page (Layout 5 - if any)**      |                                        |                                        |
+| ![Omacha Home 5](images/omacha_customer_home_5.png) |                                        |                                        |
+
 ### For Administrators (Admin Dashboard):
 *   **Dashboard Overview:** Quick statistics on total orders, users, new sales, pending comments.
 *   **User Management:** View and manage registered users.
@@ -50,23 +67,14 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
 *   **Content Management (Implicit):** Managing blog posts, categories, etc.
 *   **Statistical Reports:** Visual charts for best sellers, revenue over time.
 
-## 🖼️ Screenshots
-
-*(Embed a few key screenshots here. Ensure they are in an `screenshot` folder in your repository.)*
-
-**Homepage:**
-![Omacha Shop Homepage](screenshot/Home1.jpg)
-
-**Product Page:**
-![Omacha Shop Product Detail](screenshot/product detail.jpg)
-
-**Admin Dashboard:**
-![Omacha Shop Admin Dashboard](screenshot/admin 1.jpg)
-
-**Cart Page:**
-![Omacha Shop Cart](screenshot/your cart detail.jpg)
-
-*(Add more screenshots as needed, e.g., About Us, Blog, Add Product form)*
+### ⚙️ Admin Interface
+| Admin Login Page                       | Admin Signup Page (if applicable)      | Admin Dashboard                        |
+| :------------------------------------: | :------------------------------------: | :------------------------------------: |
+| ![Omacha Admin Login](images/omacha_admin_login.png) | ![Omacha Admin Signup](images/omacha_admin_signup.png) | ![Omacha Admin Dashboard](images/omacha_admin_dashboard.png) |
+| **Add Product Form**                   | **Manage Products (List)**             | **Manage Orders (List)**               |
+| ![Omacha Admin Add Product](images/omacha_admin_add_product.png) | ![Omacha Admin Manage Products](images/omacha_admin_manage_products.png) | ![Omacha Admin Manage Orders](images/omacha_admin_manage_orders.png) |
+| **Manage Users (List)**                |                                        |                                        |
+| ![Omacha Admin Manage Users](images/omacha_admin_manage_users.png) |                                        |                                        |
 
 ## 🛠️ Technology Stack
 
