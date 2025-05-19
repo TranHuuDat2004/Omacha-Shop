@@ -1,6 +1,10 @@
 # Omacha Shop - E-commerce Toy Store
 
-![Omacha Shop Homepage](screenshot/logo.png) <!-- MAKE SURE THIS IMAGE EXISTS OR REPLACE IT -->
+<p align="center">
+  <img src="screenshot/logo.png" alt="Omacha Shop Homepage" width="150"/>
+  <!-- Make sure the logo path is correct -->
+</p>
+
 
 Welcome to Omacha Shop, a delightful e-commerce platform dedicated to bringing joy and quality toys to children and families. This project showcases a full-stack web application built with PHP, designed for use with XAMPP, and features a comprehensive set of functionalities for both customers and administrato
 
@@ -148,14 +152,7 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
     *   **Admin Panel:** Access via `http://localhost/OmachaShop/admin/` (or the specific path to your admin area, e.g., `admin.php`, `admin_login.php`).
         *   Default admin credentials (if any, please specify): `Username: [admin_user]`, `Password: [admin_pass]` *(Update these if you have default credentials)*
 
-## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions or improvements, please feel free to:
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
 
 ## 📝 License
 
@@ -168,10 +165,3 @@ This project is licensed under the [Your_License_Name, e.g., MIT License] - see 
     *   **Nguyễn Thùy Khanh** - Leader
     *   **Trần Bình Quyên** - Marketing Manager
     *   **Dương Thị Thùy Linh** - Product Manager
-
-
-## 🙏 Acknowledgments
-
-*   [Any third-party libraries, APIs, or inspirations you'd like to acknowledge]
-*   [The source of the original template if you used one for the frontend/admin]
-*   Thanks to all team members for their collaboration!
