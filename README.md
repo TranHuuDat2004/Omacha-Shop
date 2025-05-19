@@ -1,7 +1,7 @@
 # Omacha Shop - E-commerce Toy Store
 
 <p align="center">
-  <img src="screenshot/logo.png" alt="Omacha Shop Homepage" width="150"/>
+  <img src="screenshot/logo.png" alt="Omacha Shop Homepage" height="150px"/>
   <!-- Make sure the logo path is correct -->
 </p>
 
