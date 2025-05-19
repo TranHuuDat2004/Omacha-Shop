@@ -1,6 +1,6 @@
 # Omacha Shop - E-commerce Toy Store
 
-![Omacha Shop Homepage](images/Home1.jpg) <!-- MAKE SURE THIS IMAGE EXISTS OR REPLACE IT -->
+![Omacha Shop Homepage](screenshot/Home1.jpg) <!-- MAKE SURE THIS IMAGE EXISTS OR REPLACE IT -->
 
 Welcome to Omacha Shop, a delightful e-commerce platform dedicated to bringing joy and quality toys to children and families. This project showcases a full-stack web application built with PHP, designed for use with XAMPP, and features a comprehensive set of functionalities for both customers and administrators.
 
@@ -18,7 +18,7 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
     *   Homepage with featured products, new arrivals, and shop by category/age.
     *   Advanced search functionality.
     *   Product listing page with filtering options (price, type, tags).
-    *   Detailed product pages with multiple images, descriptions, additional information, and customer reviews.
+    *   Detailed product pages with multiple screenshot, descriptions, additional information, and customer reviews.
 *   **Shopping Cart & Wishlist:**
     *   Add to cart functionality.
     *   Side cart preview.
@@ -52,19 +52,19 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
 
 ## 🖼️ Screenshots
 
-*(Embed a few key screenshots here. Ensure they are in an `images` folder in your repository.)*
+*(Embed a few key screenshots here. Ensure they are in an `screenshot` folder in your repository.)*
 
 **Homepage:**
-![Omacha Shop Homepage](images/Home1.jpg)
+![Omacha Shop Homepage](screenshot/Home1.jpg)
 
 **Product Page:**
-![Omacha Shop Product Detail](images/product detail.jpg)
+![Omacha Shop Product Detail](screenshot/product detail.jpg)
 
 **Admin Dashboard:**
-![Omacha Shop Admin Dashboard](images/admin 1.jpg)
+![Omacha Shop Admin Dashboard](screenshot/admin 1.jpg)
 
 **Cart Page:**
-![Omacha Shop Cart](images/your cart detail.jpg)
+![Omacha Shop Cart](screenshot/your cart detail.jpg)
 
 *(Add more screenshots as needed, e.g., About Us, Blog, Add Product form)*
 
