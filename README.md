@@ -43,21 +43,21 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
     *   Comment system on blog posts with admin reply functionality.
 
 ### 🛍️ Customer Interface
-| Home Page (Layout 1)                   | Product Listing (with Filter)          | Product Detail Page                    |
-| :------------------------------------: | :------------------------------------: | :------------------------------------: |
-| ![Omacha Home 1](screenshot/Home1.jpg) | ![Omacha Product List & Filter](screenshot/filter.jpg) | ![Omacha Product Detail](screenshot/product_detail.jpg) |
-| **Shopping Cart**                      | **Checkout Process**                   | **Thank You Page**                     |
-| ![Omacha Cart](screenshot/cart.jpg) | ![Omacha Checkout](screenshot/checkout.jpg) | ![Omacha Thank You](screenshot/thankyou.jpg) |
-| **Login Page**                         | **Registration Page**                  | **Wishlist Page**                      |
-| ![Omacha Login](screenshot/login.jpg) | ![Omacha Register](screenshot/register.jpg) | ![Omacha Wishlist](screenshot/wishlist.jpg) |
-| **Blog Page**                          | **About Us Page**                      | **Contact Page**                       |
-| ![Omacha Blog](screenshot/blog.jpg) | ![Omacha About Us](screenshot/about.jpg) | ![Omacha Contact](screenshot/contact.jpg) |
-| **Invoice / Order Detail**             | **Search Results**                     | **Comment Section** (e.g., on Product)|
-| ![Omacha Invoice](screenshot/invoice.jpg) | ![Omacha Search Results](screenshot/search.jpg) | ![Omacha Comment Section](screenshot/comment.jpg) |
-| **Home Page (Layout 2 - if any)**      | **Home Page (Layout 3 - if any)**      | **Home Page (Layout 4 - if any)**      |
-| ![Omacha Home 2](screenshot/Home2.jpg) | ![Omacha Home 3](screenshot/Home3.jpg) | ![Omacha Home 4](screenshot/Home4.jpg) |
-| **Home Page (Layout 5 - if any)**      |                                        |                                        |
-| ![Omacha Home 5](screenshot/Home5.jpg) |                                        |                                        |
+|           Home Page (Layout 1)            |             Product Listing (with Filter)              |                    Product Detail Page                    |
+| :---------------------------------------: | :----------------------------------------------------: | :-------------------------------------------------------: |
+|  ![Omacha Home 1](screenshot/Home1.jpg)   | ![Omacha Product List & Filter](screenshot/filter.jpg) |  ![Omacha Product Detail](screenshot/product_detail.jpg)  |
+|             **Shopping Cart**             |                  **Checkout Process**                  |                    **Thank You Page**                     |
+|    ![Omacha Cart](screenshot/cart.jpg)    |      ![Omacha Checkout](screenshot/checkout.jpg)       |       ![Omacha Thank You](screenshot/thankyou.jpg)        |
+|              **Login Page**               |                 **Registration Page**                  |                     **Wishlist Page**                     |
+|   ![Omacha Login](screenshot/login.jpg)   |      ![Omacha Register](screenshot/register.jpg)       |        ![Omacha Wishlist](screenshot/wishlist.jpg)        |
+|               **Blog Page**               |                   **About Us Page**                    |                     **Contact Page**                      |
+|    ![Omacha Blog](screenshot/blog.jpg)    |       ![Omacha About Us](screenshot/about5.jpg)        |         ![Omacha Contact](screenshot/contact.jpg)         |
+|        **Invoice / Order Detail**         |                   **Search Results**                   |          **Comment Section** (e.g., on Product)           |
+| ![Omacha Invoice](screenshot/invoice.jpg) |    ![Omacha Search Results](screenshot/search.jpg)     | ![Omacha Comment Section](screenshot/comment_product.jpg) |
+|     **Home Page (Layout 2 - if any)**     |           **Home Page (Layout 3 - if any)**            |             **Home Page (Layout 4 - if any)**             |
+|  ![Omacha Home 2](screenshot/Home2.jpg)   |         ![Omacha Home 3](screenshot/Home3.jpg)         |          ![Omacha Home 4](screenshot/Home4.jpg)           |
+|     **Home Page (Layout 5 - if any)**     |                                                        |                                                           |
+|  ![Omacha Home 5](screenshot/Home5.jpg)   |                                                        |                                                           |
 
 ### For Administrators (Admin Dashboard):
 *   **Dashboard Overview:** Quick statistics on total orders, users, new sales, pending comments.
@@ -71,13 +71,13 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
 *   **Statistical Reports:** Visual charts for best sellers, revenue over time.
 
 ### ⚙️ Admin Interface
-| Admin Login Page                       | Admin Signup Page (if applicable)      | Admin Dashboard                        |
-| :------------------------------------: | :------------------------------------: | :------------------------------------: |
-| ![Omacha Admin Login](screenshot/omacha_admin_login.jpg) | ![Omacha Admin Signup](screenshot/omacha_admin_signup.jpg) | ![Omacha Admin Dashboard](screenshot/omacha_admin_dashboard.jpg) |
-| **Add Product Form**                   | **Manage Products (List)**             | **Manage Orders (List)**               |
-| ![Omacha Admin Add Product](screenshot/omacha_admin_add_product.jpg) | ![Omacha Admin Manage Products](screenshot/omacha_admin_manage_products.jpg) | ![Omacha Admin Manage Orders](screenshot/omacha_admin_manage_orders.jpg) |
-| **Manage Users (List)**                |                                        |                                        |
-| ![Omacha Admin Manage Users](screenshot/omacha_admin_manage_users.jpg) |                                        |                                        |
+|                     Admin Login Page                     |               Admin Signup Page (if applicable)                |                      Admin Dashboard                       |
+| :------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------: |
+|    ![Omacha Admin Login](screenshot/login_admin.jpg)     |      ![Omacha Admin Signup](screenshot/create_admin.jpg)       |      ![Omacha Admin Dashboard](screenshot/admin1.jpg)      |
+|                   **Add Product Form**                   |                   **Manage Products (List)**                   |                  **Manage Orders (List)**                  |
+| ![Omacha Admin Add Product](screenshot/add_product.jpg)  | ![Omacha Admin Manage Products](screenshot/manage_product.jpg) | ![Omacha Admin Manage Orders](screenshot/manage_order.jpg) |
+|                 **Manage Users (List)**                  |                                                                |                                                            |
+| ![Omacha Admin Manage Users](screenshot/manage_user.jpg) |                                                                |                                                            |
 
 ## 🛠️ Technology Stack
 
