@@ -52,8 +52,8 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
 |   ![Omacha Login](screenshot/login.jpg)   |      ![Omacha Register](screenshot/signup.jpg)       |        ![Omacha Wishlist](screenshot/wishlist.jpg)        |
 |               **Blog Page**               |                   **About Us Page**                    |                     **Contact Page**                      |
 |    ![Omacha Blog](screenshot/blog.jpg)    |       ![Omacha About Us](screenshot/about5.jpg)        |         ![Omacha Contact](screenshot/contact.jpg)         |
-|        **Invoice / Order Detail**         |                   **Search Results**                   |          **Comment Section** (e.g., on Product)           |
-| ![Omacha Invoice](screenshot/invoice.jpg) |    ![Omacha Search Results](screenshot/search.jpg)     | ![Omacha Comment Section](screenshot/comment_product.jpg) |
+|        **Order Detail**         |                   **Search Results**                   |          **Comment Section** (e.g., on Product)           |
+| ![Omacha Invoice](screenshot/checkout1.jpg) |    ![Omacha Search Results](screenshot/search.jpg)     | ![Omacha Comment Section](screenshot/comment_product.jpg) |
 |     **Home Page (Layout 2 - if any)**     |           **Home Page (Layout 3 - if any)**            |             **Home Page (Layout 4 - if any)**             |
 |  ![Omacha Home 2](screenshot/Home2.jpg)   |         ![Omacha Home 3](screenshot/Home3.jpg)         |          ![Omacha Home 4](screenshot/Home4.jpg)           |
 |     **Home Page (Layout 5 - if any)**     |      **Invoice**                                                   |                                                           |
