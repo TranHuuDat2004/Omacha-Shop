@@ -12,7 +12,7 @@ Welcome to Omacha Shop, a delightful e-commerce platform dedicated to bringing j
 
 Omacha Shop is designed to provide a seamless and enjoyable online shopping experience for toy enthusiasts. From browsing a diverse collection of toys to secure (simulated) payment and order tracking, Omacha aims to be a trusted destination for parents and children alike. The platform also includes a robust administration system for efficient business management.
 
-**Live Demo:** 
+**Live Demo (Github Pages):** 
 
 Customer: [https://tranhuudatlego.github.io/Frontend/] 
 
@@ -58,9 +58,9 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
 |    ![Omacha Blog](screenshot/blog.jpg)    |       ![Omacha About Us](screenshot/about5.jpg)        |         ![Omacha Contact](screenshot/contact.jpg)         |
 |        **Order Detail**         |                   **Search Results**                   |          **Comment Section** (e.g., on Product)           |
 | ![Omacha Invoice](screenshot/checkout1.jpg) |    ![Omacha Search Results](screenshot/search.jpg)     | ![Omacha Comment Section](screenshot/comment_product.jpg) |
-|     **Home Page (Layout 2 - if any)**     |           **Home Page (Layout 3 - if any)**            |             **Home Page (Layout 4 - if any)**             |
+|     **Home Page (Layout 2)**     |           **Home Page (Layout 3)**            |             **Home Page (Layout 4)**             |
 |  ![Omacha Home 2](screenshot/Home2.jpg)   |         ![Omacha Home 3](screenshot/Home3.jpg)         |          ![Omacha Home 4](screenshot/Home4.jpg)           |
-|     **Home Page (Layout 5 - if any)**     |      **Invoice**                                                   |                                                           |
+|     **Home Page (Layout 5)**     |      **Invoice**                                                   |                                                           |
 |  ![Omacha Home 5](screenshot/Home5.jpg)   |           ![Invoice](screenshot/invoice.jpg)                                             |                                                           |
 
 ### For Administrators (Admin Dashboard):
@@ -97,10 +97,7 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
     *   MySQL (Managed via phpMyAdmin in XAMPP)
 *   **Web Server:**
     *   Apache (via XAMPP)
-*   **Admin Dashboard Template (if used):**
-    *   [Name of the admin template, e.g., SB Admin, AdminLTE, or custom built]
-*   **Other Tools/Libraries:**
-    *   [Any specific PHP libraries for charts, PDF generation, image handling, etc.]
+
 
 ## 🚀 Getting Started
 
