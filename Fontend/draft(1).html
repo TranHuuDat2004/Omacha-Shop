@@ -1,0 +1,159 @@
+<!-- Image 1 -->
+			<div class="item-slick3" data-thumb="images/<?php echo $product_images[0]; ?>">
+				<div class="wrap-pic-w pos-relative zoom-container">
+					<img src="images/<?php echo $product_images[0]; ?>" alt="IMG-PRODUCT">
+
+					<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04"
+						href="images/teddy-bear-1.png">
+						<i class="fa fa-expand"></i>
+					</a>
+				</div>
+			</div>
+
+			<!-- Image 2 -->
+			<div class="item-slick3" data-thumb="images/<?php echo $product_images[1]; ?>">
+				<div class="wrap-pic-w pos-relative zoom-container">
+					<img src="images/<?php echo $product_images[1]; ?>" alt="IMG-PRODUCT">
+
+					<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04"
+						href="images/teddy-bear-2.jpg">
+						<i class="fa fa-expand"></i>
+					</a>
+				</div>
+			</div>
+
+			<!-- Image 3 -->
+			<div class="item-slick3" data-thumb="images/<?php echo $product_images[2]; ?>">
+				<div class="wrap-pic-w pos-relative zoom-container">
+					<img src="images/<?php echo $product_images[2]; ?>" alt="IMG-PRODUCT">
+
+					<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04"
+						href="images/teddy-bear-3.jpg">
+						<i class="fa fa-expand"></i>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-5 p-b-30">
+				<div class="p-r-50 p-t-5 p-lr-0-lg">
+					<h4 class="mtext-105 cl2 js-name-detail p-b-14">
+						<?php echo $product["p_name"]; ?>
+					</h4>
+
+					<span class="mtext-106 cl2">
+						$ <?php echo $product["p_price"]; ?>
+					</span>
+
+					<p class="stext-102 cl3 p-t-23">
+						A teddy bear is a popular plush toy, often designed in the shape of a small bear with soft
+						plush fur.
+						It is typically made from fabric materials such as sheepskin, fleece, or stuffed cotton and
+						can come in various colors and styles.
+					</p>
+
+					<!-- Size selection -->
+					<div class="p-t-33">
+						<div class="flex-w flex-r-m p-b-10">
+							<div id="font-size" class="size-203 flex-c-m respon6">
+								Size:
+							</div>
+
+							<div class="size-204 respon6-next">
+								<!-- Radio buttons for size selection -->
+								<div>
+									<input type="radio" id="sizeS" name="size" value="Size S">
+									<label for="sizeS">Size S</label>
+								</div>
+								<div>
+									<input type="radio" id="sizeM" name="size" value="Size M">
+									<label for="sizeM">Size M</label>
+								</div>
+								<div>
+									<input type="radio" id="sizeL" name="size" value="Size L">
+									<label for="sizeL">Size L</label>
+								</div>
+								<div>
+									<input type="radio" id="sizeXL" name="size" value="Size XL">
+									<label for="sizeXL">Size XL</label>
+								</div>
+								<!-- End of radio buttons -->
+							</div>
+						</div>
+					</div>
+
+					<!-- Color selection -->
+					<div class="p-t-33">
+						<div class="flex-w flex-r-m p-b-10">
+							<div id="font-size" class="size-203 flex-c-m respon6">
+								Color:
+							</div>
+
+							<div class="size-204 respon6-next">
+								<!-- Radio buttons for size selection -->
+								<div>
+									<input type="radio" id="red" name="color" value="Red">
+									<label for="red">Red</label>
+								</div>
+								<div>
+									<input type="radio" id="blue" name="color" value="Blue">
+									<label for="blue">Blue</label>
+								</div>
+								<div>
+									<input type="radio" id="yellow" name="color" value="Yellow">
+									<label for="yellow">Yellow</label>
+								</div>
+								<div>
+									<input type="radio" id="green" name="color" value="Green">
+									<label for="green">Green</label>
+								</div>
+								<!-- End of radio buttons -->
+							</div>
+						</div>
+					</div>
+
+					<div class="flex-w flex-r-m p-b-10">
+						<div class="size-204 flex-w flex-m respon6-next">
+							<div class="wrap-num-product flex-w m-r-20 m-tb-10">
+								<div class="btn-num-product-down cl8 hov-btn3 trans-04 flex-c-m">
+									<i class="fs-16 zmdi zmdi-minus"></i>
+								</div>
+
+								<input id="quantity-input" class="mtext-104 cl3 txt-center num-product" type="number"
+									name="num-product" value="<?php echo $quantity = 1; ?>">
+
+								<div class="btn-num-product-up cl8 hov-btn3 trans-04 flex-c-m">
+									<i class="fs-16 zmdi zmdi-plus"></i>
+								</div>
+							</div>
+						</div>
+
+						<div class="size-204 flex-w flex-m respon6-next">
+							<form action="add-to-cart.php" method="post">
+								<!-- Name input is add-to-order -->
+								<input type="submit" value="Add to cart" id="button-add" name="add-to-cart"
+									class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04 js-addcart-detail">
+								<input type="hidden" name="p_id" value="<?php echo $product["p_id"]; ?>">
+								<input type="hidden" name="p_image" value="<?php echo $product["p_image"]; ?>">
+								<input type="hidden" name="p_name" value="<?php echo $product["p_name"]; ?>">
+								<input type="hidden" name="p_price" value="<?php echo $product["p_price"]; ?>">
+								<input type="hidden" name="p_type" value="<?php echo $product["p_type"]; ?>">
+								<input type="hidden" name="o_quantity" id="hidden-quantity"
+									value="<?php echo $quantity; ?>">
+								<input type="hidden" name="o_status" value="0"> <!-- Nằm trong giỏ hàng -->
+							</form>
+
+							<form action="buy-it-now.php" method="post">
+								<!-- Name input is buy-it-now -->
+								<input type="submit" value="Buy it now" id="button-buy" name="buy-it-now"
+									class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04 js-addcart-detail">
+								<input type="hidden" name="p_id" value="<?php echo $product["p_id"]; ?>">
+								<input type="hidden" name="p_image" value="<?php echo $product["p_image"]; ?>">
+								<input type="hidden" name="p_name" value="<?php echo $product["p_name"]; ?>">
+								<input type="hidden" name="p_price" value="<?php echo $product["p_price"]; ?>">
+								<input type="hidden" name="p_type" value="<?php echo $product["p_type"]; ?>">
+								<input type="hidden" name="o_quantity" id="hidden-quantity-buy"
+									value="<?php echo $quantity; ?>">
+								<input type="hidden" name="o_status" value="0"> <!-- Nằm trong giỏ hàng -->
+							</form>
+						</div>
+					</div>
+				</div>

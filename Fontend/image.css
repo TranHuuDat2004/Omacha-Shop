@@ -1,0 +1,73 @@
+@media screen and (min-width: 768px) {
+    .babydoll {
+        position: absolute;
+        left: 25%;
+        top: -15%; /* Giảm khoảng cách từ top */
+    }
+
+    .deer {
+        position: absolute;
+        left: 50%;
+        top: -30%; /* Giảm khoảng cách từ top */
+    }
+}
+
+@media screen and (min-width: 990px) {
+    .babydoll {
+        position: absolute;
+        left: 20%; /* Giảm khoảng cách từ left */
+        top: -20%; /* Giảm khoảng cách từ top */
+    }
+
+    .deer {
+        position: absolute;
+        left: 50%;
+        top: -40%; /* Giảm khoảng cách từ top */
+    }
+}
+@media screen and (min-width: 820px) and (max-width: 1000px) {
+    .babydoll {
+        left: 32%;
+        top: -29%;
+    }
+
+    .deer {
+        left: 65%;
+        top: -58%; /* Giảm khoảng cách từ top */
+    }
+}
+@media screen and (min-width: 700px) and (max-width: 800px) {
+    .babydoll {
+        left: 32%;
+        top: -29%;
+    }
+
+    .deer {
+        left: 67%;
+        top: -58%; /* Giảm khoảng cách từ top */
+    }
+}
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+    .babydoll {
+        left: 30%;
+        top: -29%;
+    }
+
+    .deer {
+        left: 60%;
+        top: -58%;
+ /* Giảm khoảng cách từ top */
+    }
+}
+
+@media screen and (min-width: 1300px) and (max-width: 1700px) {
+    .babydoll {
+        left: 25%; /* Giảm khoảng cách từ left */
+        top: -30%; /* Giảm khoảng cách từ top */
+    }
+
+    .deer {
+        left: 55%;
+        top: -60%; /* Giảm khoảng cách từ top */
+    }
+}
