@@ -151,14 +151,24 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
 
 
 
-## 📝 License
+## License
 
-This project is licensed under the [Your_License_Name, e.g., MIT License] - see the `LICENSE.md` file for details (if you have one). *(Consider adding an MIT License file if it's open source)*
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
 
 ## 👤 Author
 
 *   **[Team Engineering]**
-    *   **Trần Hữu Đạt** - Full-Stack Developer - [@TranHuuDat2004](https://github.com/TranHuuDat2004)
-    *   **Nguyễn Thùy Khanh** - Leader
-    *   **Trần Bình Quyên** - Marketing Manager
-    *   **Dương Thị Thùy Linh** - Product Manager
+    *   **Nguyễn Thùy Khanh** - Team Leader | Project Visionary & Lead Ideator
+    *   **Trần Hữu Đạt** - Full-Stack Web Developer - [@TranHuuDat2004](https://github.com/TranHuuDat2004)
+    *   **Trần Bình Quyển** - Member
+    *   **Dương Thị Thùy Linh** - Member
