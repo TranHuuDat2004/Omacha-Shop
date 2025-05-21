@@ -117,10 +117,10 @@ Admin: [https://tranhuudatlego.github.io/Admin/]
     *   Navigate to the `htdocs` directory inside your XAMPP installation folder (e.g., `C:\xampp\htdocs` on Windows, or `/Applications/XAMPP/htdocs` on macOS).
     *   Clone the project:
         ```bash
-        git clone https://github.com/[Your_Username]/OmachaShop.git
+        git clone https://github.com/TranHuuDat2004/Omacha_Shop.git
         cd OmachaShop
         ```
-        *(Replace `[Your_Username]` with your actual GitHub username if you've forked it, or use the original repository URL.)*
+
         The project should now be in a folder like `C:\xampp\htdocs\OmachaShop`.
 
 3.  **Database Setup:**
