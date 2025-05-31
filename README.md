@@ -165,7 +165,7 @@ Under the following terms:
 
 ![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
 
-## 👤 Author
+## 👤 Contributors
 
 *   **[Team Engineering]**
     *   **Nguyễn Thùy Khanh** - Team Leader | Project Visionary & Lead Ideator
