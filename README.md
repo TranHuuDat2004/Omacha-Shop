@@ -179,7 +179,7 @@ Omacha Shop được thiết kế để cung cấp trải nghiệm mua sắm tr�
 |                 **Quản lý Người dùng (Danh sách)**                  |                                                                |                                                            |
 | ![Omacha Admin Manage Users](screenshot/manage_user.jpg) |                                                                |                                                            |
 
-## 🛠️ Ngăn xếp Công nghệ
+## 🛠️ Công nghệ sử dụng
 
 *   **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS (cho trang Quản trị)
 *   **Backend:** PHP (Lập trình thủ tục hoặc theo cấu trúc tùy chỉnh)
