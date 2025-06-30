@@ -19,8 +19,8 @@ This README is available in English and Vietnamese. Please expand the section fo
 Omacha Shop is designed to provide a seamless and enjoyable online shopping experience for toy enthusiasts. From browsing a diverse collection of toys to secure (simulated) payment and order tracking, Omacha aims to be a trusted destination for parents and children alike. The platform also includes a robust administration system for efficient business management.
 
 **Live Demo (GitHub Pages - Frontend UI Only):**
-*   Customer View: [https://tranhuudatlego.github.io/Frontend/](https://tranhuudatlego.github.io/Frontend/)
-*   Admin View (UI Only): [https://tranhuudatlego.github.io/Admin/](https://tranhuudatlego.github.io/Admin/)
+*   Customer View: [https://tranhuudat2004.github.io/Omacha-Shop-Demo/](https://tranhuudat2004.github.io/Omacha-Shop-Demo/)
+*   Admin View (UI Only): [https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin/](https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin)
 *(Note: The live demos are frontend-only and do not include backend functionality like database interactions, user authentication, or order processing. For full functionality, please set up the project locally as described below.)*
 
 ## ✨ Key Features
@@ -130,8 +130,9 @@ You are free to Share and Adapt the material, under the terms of Attribution and
 Omacha Shop được thiết kế để cung cấp trải nghiệm mua sắm trực tuyến liền mạch và thú vị cho những người đam mê đồ chơi. Từ việc duyệt qua bộ sưu tập đồ chơi đa dạng đến thanh toán (mô phỏng) an toàn và theo dõi đơn hàng, Omacha đặt mục tiêu trở thành một điểm đến đáng tin cậy cho các bậc cha mẹ và trẻ em. Nền tảng này cũng bao gồm một hệ thống quản trị mạnh mẽ để quản lý kinh doanh hiệu quả.
 
 **Demo Trực tuyến (GitHub Pages - Chỉ Giao diện Frontend):**
-*   Giao diện Khách hàng: [https://tranhuudatlego.github.io/Frontend/](https://tranhuudatlego.github.io/Frontend/)
-*   Giao diện Quản trị (Chỉ UI): [https://tranhuudatlego.github.io/Admin/](https://tranhuudatlego.github.io/Admin/)
+*   Giao diện Khách hàng: [https://tranhuudat2004.github.io/Omacha-Shop-Demo/](https://tranhuudat2004.github.io/Omacha-Shop-Demo/)
+*   Giao diện Quản trị (Chỉ UI): [https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin/](https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin)
+
 *(Lưu ý: Các bản demo trực tuyến chỉ là giao diện người dùng và không bao gồm các chức năng backend như tương tác cơ sở dữ liệu, xác thực người dùng hoặc xử lý đơn hàng. Để có đầy đủ chức năng, vui lòng cài đặt dự án cục bộ theo hướng dẫn bên dưới.)*
 
 ## ✨ Các Tính năng Chính
