@@ -20,7 +20,7 @@ Omacha Shop is designed to provide a seamless and enjoyable online shopping expe
 
 **Live Demo (GitHub Pages - Frontend UI Only):**
 *   Customer View: [https://tranhuudat2004.github.io/Omacha-Shop-Demo/](https://tranhuudat2004.github.io/Omacha-Shop-Demo/)
-*   Admin View (UI Only): [https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin/](https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin)
+*   Admin View (UI Only): [https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin/public/index.html](https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin/public/index.html)
 *(Note: The live demos are frontend-only and do not include backend functionality like database interactions, user authentication, or order processing. For full functionality, please set up the project locally as described below.)*
 
 ## ✨ Key Features
@@ -131,7 +131,7 @@ Omacha Shop được thiết kế để cung cấp trải nghiệm mua sắm tr�
 
 **Demo Trực tuyến (GitHub Pages - Chỉ Giao diện Frontend):**
 *   Giao diện Khách hàng: [https://tranhuudat2004.github.io/Omacha-Shop-Demo/](https://tranhuudat2004.github.io/Omacha-Shop-Demo/)
-*   Giao diện Quản trị (Chỉ UI): [https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin/](https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin)
+*   Giao diện Quản trị (Chỉ UI): [https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin/public/index.html](https://tranhuudat2004.github.io/Omacha-Shop-Demo/Admin/public/index.html)
 
 *(Lưu ý: Các bản demo trực tuyến chỉ là giao diện người dùng và không bao gồm các chức năng backend như tương tác cơ sở dữ liệu, xác thực người dùng hoặc xử lý đơn hàng. Để có đầy đủ chức năng, vui lòng cài đặt dự án cục bộ theo hướng dẫn bên dưới.)*
 
